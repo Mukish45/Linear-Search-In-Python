@@ -20,6 +20,3 @@ if(index!=-1):
    print("Entered element is found at index ",index)
 else:
    print("Entered element not found")
-
-
-print(type(a))
